@@ -3,8 +3,8 @@
 A modern, responsive SaaS-style Admin Dashboard built with React and Vite.
 
 ## 🚀 Live Demo
-
-https://pulseboard-react-dashboard-27ij.vercel.app
+[
+https://pulseboard-react-dashboard-27ij.vercel.app](https://pulseboard-react-dashboard-27jj.vercel.app/)
 
 ## 📂 GitHub Repository
 
